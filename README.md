@@ -6,9 +6,9 @@ Password generator allows you to input the criteria you need for a password and 
 
 ## Installation
 
-[You can pull the link to my portfolio from here:]()
+[You can pull the link to my portfolio from here:](https://github.com/BA1bers/PasswordGenerator.git)
 
-[My portfolio is published here:]()
+[My portfolio is published here:](https://ba1bers.github.io/PasswordGenerator/)
 
 ## Website Screenshots
 ![Default](./Develop/images/pg.PNG)
